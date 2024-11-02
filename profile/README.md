@@ -16,7 +16,7 @@ Caso tenha alguma ideia ou dúvida, entre em contato com os organizadores 😉
 <br>
 
 <p align="center">
-    <a href="">
+    <a href="https://github.com/devsecopsvillage/H2HC/blob/main/palestras/village-2024/README.md">
         <img src="https://img.shields.io/badge/-palestras%20h2hc%202024-181717?style=for-the-badge&logo=github">
     </a>
 </p>
